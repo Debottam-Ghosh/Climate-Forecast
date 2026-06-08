@@ -1,0 +1,309 @@
+[
+  {
+    "District": "Adilabad",
+    "Crops": [
+      { "Crop Name": "Jowar", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Sugarcane", "Water Requirement - (MM / Hectare)": 2200 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Mango", "Water Requirement - (MM / Hectare)": 1100 },
+      { "Crop Name": "Tomato", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Brinjal", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 },
+      { "Crop Name": "Coriander", "Water Requirement - (MM / Hectare)": 400 }
+    ]
+  },
+  {
+    "District": "Bhadradri Kothagudem",
+    "Crops": []
+  },
+  {
+    "District": "Hyderabad",
+    "Crops": [
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Sugarcane", "Water Requirement - (MM / Hectare)": 2200 },
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Jowar", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Sunflower", "Water Requirement - (MM / Hectare)": 450 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Jagtial",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Mango", "Water Requirement - (MM / Hectare)": 1100 },
+      { "Crop Name": "Banana", "Water Requirement - (MM / Hectare)": 1800 }
+    ]
+  },
+  {
+    "District": "Jangaon",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Jayashankar Bhupalapally",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 }
+    ]
+  },
+  {
+    "District": "Jogulamba Gadwal",
+    "Crops": [
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 }
+    ]
+  },
+  {
+    "District": "Kamareddy",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Sugarcane", "Water Requirement - (MM / Hectare)": 2200 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 }
+    ]
+  },
+  {
+    "District": "Karimnagar",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Mango", "Water Requirement - (MM / Hectare)": 1100 },
+      { "Crop Name": "Tomato", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Onion", "Water Requirement - (MM / Hectare)": 400 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 }
+    ]
+  },
+  {
+    "District": "Khammam",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Komaram Bheem Asifabad",
+    "Crops": [
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 }
+    ]
+  },
+  {
+    "District": "Mahabubabad",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Mahabubnagar",
+    "Crops": [
+      { "Crop Name": "Finger millet", "Water Requirement - (MM / Hectare)": 310 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Tobacco", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 }
+    ]
+  },
+  {
+    "District": "Mancherial",
+    "Crops": [
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 }
+    ]
+  },
+  {
+    "District": "Medak",
+    "Crops": [
+      { "Crop Name": "Sugarcane", "Water Requirement - (MM / Hectare)": 2200 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 }
+    ]
+  },
+  {
+    "District": "Medchal-Malkajgiri",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 }
+    ]
+  },
+  {
+    "District": "Nagarkurnool",
+    "Crops": [
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Nalgonda",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Horsegram", "Water Requirement - (MM / Hectare)": 300 }
+    ]
+  },
+  {
+    "District": "Nirmal",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 }
+    ]
+  },
+  {
+    "District": "Nizamabad",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 },
+      { "Crop Name": "Sunflower", "Water Requirement - (MM / Hectare)": 450 },
+      { "Crop Name": "Onion", "Water Requirement - (MM / Hectare)": 400 }
+    ]
+  },
+  {
+    "District": "Peddapali",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Sunflower", "Water Requirement - (MM / Hectare)": 450 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 }
+    ]
+  },
+  {
+    "District": "Rajanna Sircilla",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 }
+    ]
+  },
+  {
+    "District": "Rangareddy",
+    "Crops": [
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Blackgram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Sugarcane", "Water Requirement - (MM / Hectare)": 2200 }
+    ]
+  },
+  {
+    "District": "Sangareddy",
+    "Crops": []
+  },
+  {
+    "District": "Siddipet",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Sunflower", "Water Requirement - (MM / Hectare)": 450 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Suryapet",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 }
+    ]
+  },
+  {
+    "District": "Vikarabad",
+    "Crops": []
+  },
+  {
+    "District": "Wanaparthy",
+    "Crops": [
+      { "Crop Name": "Paddy", "Water Requirement - (MM / Hectare)": 1250 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 }
+    ]
+  },
+  {
+    "District": "Warangal (Rural)",
+    "Crops": [
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Tobacco", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Gingelly", "Water Requirement - (MM / Hectare)": 400 }
+    ]
+  },
+  {
+    "District": "Warangal (Urban)",
+    "Crops": [
+      { "Crop Name": "Maize", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Redgram", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Bengalgram", "Water Requirement - (MM / Hectare)": 350 },
+      { "Crop Name": "Chillies", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Turmeric", "Water Requirement - (MM / Hectare)": 900 },
+      { "Crop Name": "Cotton", "Water Requirement - (MM / Hectare)": 600 },
+      { "Crop Name": "Castor", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Tobacco", "Water Requirement - (MM / Hectare)": 500 },
+      { "Crop Name": "Gingelly", "Water Requirement - (MM / Hectare)": 400 }
+    ]
+  },
+  {
+    "District": "Yadadri Bhuvanagiri",
+    "Crops": [
+      { "Crop Name": "Groundnut", "Water Requirement - (MM / Hectare)": 550 },
+      { "Crop Name": "Greengram", "Water Requirement - (MM / Hectare)": 300 },
+      { "Crop Name": "Sunflower", "Water Requirement - (MM / Hectare)": 450 }
+    ]
+  }
+]
