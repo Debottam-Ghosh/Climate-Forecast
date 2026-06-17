@@ -168,7 +168,7 @@ def trend_analysis(state=None, district=None):
     fig = px.bar(
         trend_df,
         x="year",
-        y="Count (Monthly)",
+        y="Count",
         color="Drought_Class",
         category_orders={
             "Drought_Class": drought_order,
