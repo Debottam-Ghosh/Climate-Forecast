@@ -168,7 +168,7 @@ def trend_analysis(state=None, district=None):
     fig = px.bar(
         trend_df,
         x="year",
-        y="Count",
+        y="Count (Monthly)",
         color="Drought_Class",
         category_orders={
             "Drought_Class": drought_order,
@@ -184,7 +184,7 @@ def trend_analysis(state=None, district=None):
     # ---------------------------------------------------
     fig.update_layout(
         xaxis_title="Year",
-        yaxis_title="Count",
+        yaxis_title="Count (Monthly)",
         legend_title="Drought Class",
         height=650,
         template="plotly_white",
@@ -209,7 +209,7 @@ def trend_analysis(state=None, district=None):
     # Climate Variable Trend Analysis
     # ===================================================
 
-    st.subheader("Monthly Climate Variable Trends")
+    st.subheader("Climate Variable Trends")
 
     # ---------------------------------------------------
     # Year Range Selector
