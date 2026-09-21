@@ -701,6 +701,7 @@ def AI_generated_actions(state, district, y, m, out_df):
     client = Groq(
         api_key=os.getenv("GROQ_API_KEY")
     )
+    groq_model = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b").strip()
 
     # =========================================================
     # VALIDATION
@@ -891,33 +892,32 @@ def AI_generated_actions(state, district, y, m, out_df):
     # =========================================================
 
     def ask_groq(prompt, max_tokens=250):
+        try:
+            response = client.chat.completions.create(
+                model=groq_model,
+                messages=[
+                    {
+                        "role": "system",
+                        "content":
+                        "You are a professional agricultural drought intelligence assistant."
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    }
+                ],
+                temperature=0.4,
+                max_tokens=max_tokens
+            )
 
-        response = client.chat.completions.create(
-
-            model="llama-3.1-8b-instant",
-
-            messages=[
-                {
-                    "role": "system",
-                    "content":
-                    "You are a professional agricultural drought intelligence assistant."
-                },
-                {
-                    "role": "user",
-                    "content": prompt
-                }
-            ],
-
-            temperature=0.4,
-            max_tokens=max_tokens
-        )
-
-        return (
-            response
-            .choices[0]
-            .message
-            .content
-        )
+            return response.choices[0].message.content
+        except Exception as exc:
+            st.warning(
+                f"AI-generated guidance is unavailable ({type(exc).__name__}). "
+                "The forecast is still available. Set GROQ_MODEL to an available "
+                "Groq model if needed."
+            )
+            return "AI-generated guidance is unavailable for this forecast."
 
 
     # =========================================================
